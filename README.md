@@ -262,26 +262,34 @@ This project also strengthened my ability to use cybersecurity tools, interpret 
 ---
 
 
-## 📸 8. EVIDENCE AND SCREENSHOTS
 
-Screenshots collected as evidence during the practical activities are stored in the `screenshots` folder.
+## Screenshots
 
-![WHOIS Screenshot](screenshots/1_Whois.png)
+Screenshots collected as evidence during the penetration testing activities are stored in the `Screenshots` folder.
 
-![WHOIS Screenshot](screenshots/2_Whois.png)
+### 1. Whois Lookup
+![Whois Lookup](Screenshots/1_Whois.png)
 
-![WhatWeb Screenshot](screenshots/3_Whatweb.png)
+### 2. Whois Lookup (Additional Results)
+![Whois2](Screenshots/2_Whois2.png)
 
-![Nslookup Screenshot](screenshots/4_nslookup.png)
+### 3. WhatWeb Scan
+![WhatWeb](Screenshots/3_Whatweb.png)
 
-![cURL Screenshot](screenshots/5_Curl.png)
+### 4. Nslookup
+![Nslookup](Screenshots/4_nslookup.png)
 
-![Wafw00f Screenshot](screenshots/6_Wafw00f.png)
+### 5. Curl Request
+![Curl](Screenshots/5_curl.png)
 
+### 6. WAF Detection
+![Wafw00f](Screenshots/6_Wafw00f.png)
 
-![Zenmap Screenshot](screenshots/7_Zenmap.png)
+### 7. Zenmap Scan
+![Zenmap](Screenshots/7_Zenmap.png)
 
-![Zenmap Screenshot](screenshots/8_Zenmap2.png)
+### 8. Zenmap Scan (Additional Results)
+![Zenmap2](Screenshots/8_Zenmap2.png)
 
 
 
@@ -297,16 +305,3 @@ LinkedIn: [Connect with me](https://www.linkedin.com/in/oje-marvellous-b8a5762b9
 **Programme:** NetworkWalks Cybersecurity Internship  
 **Project name:** Footprinting & Network Scanning
 
----
-
-## ⚠️ DISCLAIMER
-
-This project is strictly for educational purposes and authorized security testing.
-
-All penetration testing and reconnaissance activities must be performed only against systems for which explicit permission has been granted.
-
-No unauthorized access, exploitation, disruption, or damage is intended.
-
----
-
-### LEARN. ANALYSE. DEFEND. INNOVATE. 🔐
