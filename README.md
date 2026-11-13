@@ -263,8 +263,7 @@ This project also strengthened my ability to use cybersecurity tools, interpret 
 
 
 
-## Screenshots
-
+## 📸 8. EVIDENCES COLLECTED
 Screenshots collected as evidence during the penetration testing activities are stored in the `Screenshots` folder.
 
 ### 1. Whois Lookup
