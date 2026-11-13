@@ -261,25 +261,28 @@ This project also strengthened my ability to use cybersecurity tools, interpret 
 
 ---
 
-## 📸 9. EVIDENCES COLLECTED
 
-*Screenshots collected as evidence during the activities (stored in the `screenshots/` folder):*
+## 📸 8. EVIDENCE AND SCREENSHOTS
 
-![whois output](screenshots/1_whois.png)
+Screenshots collected as evidence during the practical activities are stored in the `screenshots` folder.
 
-![whois output](screenshots/2_whois2.png)
+![WHOIS Screenshot](screenshots/1_Whois.png)
 
-![whatweb output](screenshots/3_whatweb.png)
+![WHOIS Screenshot](screenshots/2_Whois.png)
 
-![nslookup output](screenshots/4_nslookup.png)
+![WhatWeb Screenshot](screenshots/3_Whatweb.png)
 
-![curl output](screenshots/5_curl.png)
+![Nslookup Screenshot](screenshots/4_nslookup.png)
 
-![wafw00f output](screenshots/6_wafw00f.png)
+![cURL Screenshot](screenshots/5_Curl.png)
 
-![dnsrecon output](screenshots/7_zenmap.png)
+![Wafw00f Screenshot](screenshots/6_Wafw00f.png)
 
-![Zenmap scan and topology](screenshots/8_zenmap2.png) screenshot filename.
+
+![Zenmap Screenshot](screenshots/7_Zenmap.png)
+
+![Zenmap Screenshot](screenshots/8_Zenmap2.png)
+
 
 
 
